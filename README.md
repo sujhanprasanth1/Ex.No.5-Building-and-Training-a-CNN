@@ -122,6 +122,10 @@ for i in range(5):
     <img width="554" height="396" alt="image" src="https://github.com/user-attachments/assets/81232b25-568e-4453-af4a-daa8ecb71eae" />
     <img width="554" height="299" alt="image" src="https://github.com/user-attachments/assets/d91e0a8a-5280-4886-8f58-2533d33104f2" />
     <img width="554" height="284" alt="image" src="https://github.com/user-attachments/assets/be9212f4-4e6e-4f71-b3f8-43a953665c83" />
+
+    
+<img width="1036" height="698" alt="image" src="https://github.com/user-attachments/assets/8f0adcbc-90a0-495e-9689-fb02c66da63f" />
+
    ##  Conclusion:
 Thus successfully implemented and trained a CNN to recognize objects across ten distinct categories using the CIFAR 10 dataset.
 
